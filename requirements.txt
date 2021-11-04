@@ -1,9 +1,9 @@
 setuptools
-git+https://github.com/boro-alpha/bclearer.git
+git+https://github.com/boro-alpha/bclearer.git@0.1.0-alpha
 git+https://github.com/boro-alpha/bnop.git
 git+https://github.com/boro-alpha/nf_common.git
-git+https://github.com/boro-alpha/nf_ea_common_tools.git
-git+https://github.com/boro-alpha/nf_ea_com_bnop.git
+git+https://github.com/boro-alpha/nf_ea_common_tools.git@0.1.0-alpha.1
+git+https://github.com/boro-alpha/nf_ea_com_bnop.git@0.1.0-alpha
 git+https://github.com/boro-alpha/boro_common.git
 git+https://github.com/boro-alpha/ea_interop_service.git
 pandas
